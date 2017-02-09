@@ -1488,7 +1488,7 @@
 #u298-4
 {
 	z-index: 109;
-	width: 221px;
+	width: 155px;
 	min-height: 28px;
 	line-height: 24px;
 	font-size: 20px;
@@ -1704,24 +1704,12 @@
 #u762
 {
 	z-index: 5;
-	width: 1159px;
-	border-width: 1px;
-	border-style: solid;
+	width: 1160px;
 	border-color: #000000;
 	padding-bottom: 129px;
 	position: relative;
-	margin-bottom: -1px;
 	margin-right: -10000px;
 	background: #FFFFFF url("../images/weather.jpg") repeat left top;
-}
-
-#u762_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 959px;
-	position: relative;
-	left: -100px;
 }
 
 #pu490-6
@@ -1730,8 +1718,8 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 104px;
-	left: 62px;
+	margin-top: 105px;
+	left: 63px;
 }
 
 #u490-6
@@ -1794,8 +1782,8 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 98px;
-	left: 266px;
+	margin-top: 99px;
+	left: 267px;
 }
 
 #u497-6
@@ -1854,8 +1842,8 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 97px;
-	left: 480px;
+	margin-top: 98px;
+	left: 481px;
 }
 
 #u511-6
@@ -1914,8 +1902,8 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 97px;
-	left: 704px;
+	margin-top: 98px;
+	left: 705px;
 }
 
 #u523-6
@@ -1974,8 +1962,8 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 91px;
-	left: 938px;
+	margin-top: 92px;
+	left: 939px;
 }
 
 #u530-6
@@ -2066,7 +2054,7 @@
 	left: -100px;
 }
 
-#u70_align_to_page,#u98_align_to_page,#u359_align_to_page,#u375_align_to_page
+#u70_align_to_page,#u98_align_to_page,#u359_align_to_page,#u762_align_to_page,#u375_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -2112,16 +2100,13 @@
 #u829
 {
 	z-index: 2;
-	width: 1159px;
-	height: 508px;
-	border-width: 1px;
-	border-style: solid;
+	width: 1160px;
+	height: 509px;
 	border-color: #000000;
 	opacity: 0.92;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=92)";
 	filter: alpha(opacity=92);
 	position: relative;
-	margin-bottom: -1px;
 	margin-right: -10000px;
 	background: #FFFFFF url("../images/7.jpg") no-repeat left top;
 	background-size: cover !important;
