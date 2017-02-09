@@ -10,74 +10,75 @@
   <folder name="phone">
     <folder name="css">
       <file name="_____.css" crc="4264408292" ref="phone>заказ"/>
-      <file name="index.css" crc="151427257" ref="phone>index"/>
+      <file name="index.css" crc="4062775259" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="84492603" mt="1486649638151" redirect="false"/>
+    <file name="index.html" crc="292552911" mt="1486658500103" redirect="true"/>
     <file name="заказ.html" crc="534273531" mt="1486649638231" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="3885339232" ref="заказ"/>
-    <file name="index.css" crc="395452918" ref="index"/>
+    <file name="index.css" crc="4164920840" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
     <file name="museutils.js" crc="3865766194" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="webpro.js" crc="3903299128" ref="index"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
-    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
+    <file name="webpro.js" crc="3903299128" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:phone>index"/>
     <file name="jquery.watch.js" crc="4068933136" ref="index:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
     <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
-    <file name="form_check.php" crc="4257733307" ref="index"/>
-    <file name="form_throttle.php" crc="3966014863" ref="index"/>
+    <file name="form_check.php" crc="4257733307" ref="index:phone>index"/>
+    <file name="form_throttle.php" crc="3966014863" ref="index:phone>index"/>
     <file name="form-u377.php" crc="3934233878" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:phone>index"/>
+    <file name="form-u987.php" crc="3954723654" ref="phone>index"/>
+    <file name="museredirect.js" crc="236897542" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ballon.png" crc="396159271" ref="index"/>
-    <file name="100 free flat long shadow icons-71.png" crc="370459922" ref="index"/>
-    <file name="шары2.jpg" crc="185708355" ref="index"/>
-    <file name="p0dnnfwlrby.jpg" crc="3802868892" ref="index"/>
-    <file name="eqd83duf8ga.jpg" crc="4114119088" ref="index"/>
-    <file name="wlqr5u4tf-0.jpg" crc="4282653452" ref="index"/>
-    <file name="_ytlqp8udbu.jpg" crc="129559898" ref="index"/>
-    <file name="weather.jpg" crc="4008163527" ref="index"/>
-    <file name="100 free flat long shadow icons-40.png" crc="3965358248" ref="index"/>
+    <file name="ballon.png" crc="396159271" ref="index:phone>index"/>
+    <file name="100 free flat long shadow icons-71.png" crc="370459922" ref="index:phone>index"/>
+    <file name="шары2.jpg" crc="185708355" ref="index:phone>index"/>
+    <file name="p0dnnfwlrby.jpg" crc="3802868892" ref="index:phone>index"/>
+    <file name="eqd83duf8ga.jpg" crc="4114119088" ref="index:phone>index"/>
+    <file name="wlqr5u4tf-0.jpg" crc="4282653452" ref="index:phone>index"/>
+    <file name="_ytlqp8udbu.jpg" crc="129559898" ref="index:phone>index"/>
+    <file name="weather.jpg" crc="4008163527" ref="index:phone>index"/>
+    <file name="100 free flat long shadow icons-40.png" crc="3965358248" ref="index:phone>index"/>
     <file name="air-balloon-favicon.ico" crc="4167303164" ref="phone>index"/>
-    <file name="u82-6.png" crc="4286095455" ref="index"/>
     <file name="u105-12.png" crc="226660055" ref="index"/>
     <file name="u563-5.png" crc="3795687435" ref="index"/>
     <file name="gew5bjmzuj8-u100.jpg" crc="4232894701" ref="index"/>
-    <file name="emote_smile.png" crc="356658783" ref="index"/>
-    <file name="2sjq-fqqy1i.jpg" crc="334386007" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="hdvfqz3ycbu.jpg" crc="355575733" ref="index"/>
-    <file name="hkjkbyc4q5w.jpg" crc="58866771" ref="index"/>
-    <file name="kuqx98l3cx4.jpg" crc="3871646057" ref="index"/>
-    <file name="zprfx8b0z3q.jpg" crc="38690028" ref="index"/>
-    <file name="2sjq-fqqy1i60x77.jpg" crc="4210524683" ref="index"/>
-    <file name="hdvfqz3ycbu60x45.jpg" crc="4173867728" ref="index"/>
-    <file name="hkjkbyc4q5w63x45.jpg" crc="3994848725" ref="index"/>
-    <file name="kuqx98l3cx468x45.jpg" crc="3784997688" ref="index"/>
-    <file name="zprfx8b0z3q60x45.jpg" crc="3828724408" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="2n8rxhtqvpg.jpg" crc="250420371" ref="index"/>
-    <file name="tsrshp4s7ec.jpg" crc="4184327105" ref="index"/>
-    <file name="4.jpg" crc="40223664" ref="index"/>
+    <file name="emote_smile.png" crc="356658783" ref="index:phone>index"/>
+    <file name="2sjq-fqqy1i.jpg" crc="334386007" ref="index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="hdvfqz3ycbu.jpg" crc="355575733" ref="index:phone>index"/>
+    <file name="hkjkbyc4q5w.jpg" crc="58866771" ref="index:phone>index"/>
+    <file name="kuqx98l3cx4.jpg" crc="3871646057" ref="index:phone>index"/>
+    <file name="zprfx8b0z3q.jpg" crc="38690028" ref="index:phone>index"/>
+    <file name="2sjq-fqqy1i60x77.jpg" crc="4210524683" ref="phone>index"/>
+    <file name="hdvfqz3ycbu60x45.jpg" crc="4173867728" ref="phone>index"/>
+    <file name="hkjkbyc4q5w63x45.jpg" crc="3994848725" ref="phone>index"/>
+    <file name="kuqx98l3cx468x45.jpg" crc="3784997688" ref="phone>index"/>
+    <file name="zprfx8b0z3q60x45.jpg" crc="3828724408" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="2n8rxhtqvpg.jpg" crc="250420371" ref="index:phone>index"/>
+    <file name="tsrshp4s7ec.jpg" crc="4184327105" ref="index:phone>index"/>
+    <file name="4.jpg" crc="40223664" ref="index:phone>index"/>
     <file name="u556-17.png" crc="4177934238" ref="index"/>
-    <file name="emote_woohoooo.png" crc="4068939761" ref="index"/>
-    <file name="emote_nerd.png" crc="4054406870" ref="index"/>
-    <file name="emote_biggrin.png" crc="400321118" ref="index"/>
-    <file name="emote_wink.png" crc="4237764936" ref="index:заказ"/>
+    <file name="emote_woohoooo.png" crc="4068939761" ref="index:phone>index"/>
+    <file name="emote_nerd.png" crc="4054406870" ref="index:phone>index"/>
+    <file name="emote_biggrin.png" crc="400321118" ref="index:phone>index"/>
+    <file name="emote_wink.png" crc="4237764936" ref="index:заказ:phone>index"/>
     <file name="u365-4.png" crc="4140777904" ref="index"/>
-    <file name="pasted image 64x64.jpg" crc="3798544896" ref="index"/>
-    <file name="pasted image 64x642.jpg" crc="521250880" ref="index"/>
-    <file name="pasted image 64x65.jpg" crc="3826646967" ref="index"/>
-    <file name="pasted image 64x643.jpg" crc="237770676" ref="index"/>
-    <file name="pasted image 64x644.jpg" crc="4279623815" ref="index"/>
-    <file name="7.jpg" crc="4069796559" ref="index"/>
+    <file name="pasted image 64x64.jpg" crc="3798544896" ref="index:phone>index"/>
+    <file name="pasted image 64x642.jpg" crc="521250880" ref="index:phone>index"/>
+    <file name="pasted image 64x65.jpg" crc="3826646967" ref="index:phone>index"/>
+    <file name="pasted image 64x643.jpg" crc="237770676" ref="index:phone>index"/>
+    <file name="pasted image 64x644.jpg" crc="4279623815" ref="index:phone>index"/>
+    <file name="7.jpg" crc="4069796559" ref="index:phone>index"/>
     <file name="u378-17.png" crc="63009188" ref="index"/>
     <file name="u378-17-r.png" crc="4178308008" ref="index"/>
     <file name="u378-17-m.png" crc="4017657645" ref="index"/>
@@ -86,8 +87,21 @@
     <file name="8.jpg" crc="3778603566" ref="заказ"/>
     <file name="u441-4.png" crc="100570474" ref="заказ"/>
     <file name="m-u815-fr.jpg" crc="8823059" ref="index"/>
-    <file name="smilet.png" crc="112075885" ref="index"/>
+    <file name="smilet.png" crc="112075885" ref="index:phone>index"/>
+    <file name="u913-5.png" crc="58839526" ref="phone>index"/>
+    <file name="m-u906-fr.jpg" crc="85977685" ref="phone>index"/>
+    <file name="u924-12.png" crc="226660055" ref="phone>index"/>
+    <file name="u1049-5.png" crc="3795687435" ref="phone>index"/>
+    <file name="gew5bjmzuj8-u922.jpg" crc="4232894701" ref="phone>index"/>
+    <file name="u1047-17.png" crc="4177934238" ref="phone>index"/>
+    <file name="u983-4.png" crc="4140777904" ref="phone>index"/>
+    <file name="uauwc3o8go8-u1014.jpg" crc="4010820067" ref="phone>index"/>
+    <file name="u1006-17.png" crc="63009188" ref="phone>index"/>
+    <file name="u1006-17-r.png" crc="4178308008" ref="phone>index"/>
+    <file name="u1006-17-m.png" crc="4017657645" ref="phone>index"/>
+    <file name="u1006-17-fs.png" crc="4240393657" ref="phone>index"/>
+    <file name="u82-5.png" crc="58839526" ref="index"/>
   </folder>
-  <file name="index.html" crc="4046961150" mt="1486652698733" redirect="true"/>
+  <file name="index.html" crc="112509339" mt="1486660550995" redirect="true"/>
   <file name="заказ.html" crc="3764197700" mt="1486649638226" redirect="true"/>
 </manifest>
