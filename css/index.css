@@ -1520,7 +1520,7 @@
 	filter: alpha(opacity=89);
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/4.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/4.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 

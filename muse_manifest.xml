@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="3885339232" ref="заказ"/>
-    <file name="index.css" crc="3999793804" ref="index"/>
+    <file name="index.css" crc="354824415" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ"/>
@@ -72,6 +72,6 @@
     <file name="m-u815-fr.jpg" crc="8823059" ref="index"/>
     <file name="smilet.png" crc="112075885" ref="index"/>
   </folder>
-  <file name="index.html" crc="4046961150" mt="1486647568787" redirect="true"/>
+  <file name="index.html" crc="4046961150" mt="1486648699010" redirect="true"/>
   <file name="заказ.html" crc="3764197700" mt="1486567361185" redirect="true"/>
 </manifest>
