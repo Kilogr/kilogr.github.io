@@ -18,7 +18,7 @@
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="4280895250" ref="заказ"/>
-    <file name="index.css" crc="4255303566" ref="index"/>
+    <file name="index.css" crc="4030521211" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
@@ -37,6 +37,7 @@
     <file name="museredirect.js" crc="236897542" ref="index"/>
     <file name="musewpdisclosure.js" crc="4285748861" ref="index"/>
     <file name="form-u1443.php" crc="449595838" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
   </folder>
   <folder name="images">
     <file name="ballon.png" crc="396159271" ref="index:phone>index"/>
@@ -71,7 +72,6 @@
     <file name="emote_nerd.png" crc="4054406870" ref="index:phone>index"/>
     <file name="emote_biggrin.png" crc="400321118" ref="index:phone>index"/>
     <file name="emote_wink.png" crc="4237764936" ref="index:заказ:phone>index"/>
-    <file name="u365-4.png" crc="3851549471" ref="index"/>
     <file name="pasted image 64x64.jpg" crc="3798544896" ref="index:phone>index"/>
     <file name="pasted image 64x642.jpg" crc="237770676" ref="index:phone>index"/>
     <file name="pasted image 64x65.jpg" crc="3826646967" ref="phone>index"/>
@@ -95,7 +95,7 @@
     <file name="u1006-17-m.png" crc="4017657645" ref="phone>index"/>
     <file name="u1006-17-fs.png" crc="4240393657" ref="phone>index"/>
     <file name="u82-5.png" crc="3777147353" ref="index"/>
-    <file name="u563-4.png" crc="3865076949" ref="index"/>
+    <file name="u563-4.png" crc="4254239076" ref="index"/>
     <file name="вал2.jpg" crc="189905759" ref="index"/>
     <file name="вал7.jpg" crc="268650468" ref="index"/>
     <file name="8марта2-3.jpg" crc="4289747607" ref="index"/>
@@ -115,7 +115,7 @@
     <file name="вал1-u1199.jpg" crc="3775780250" ref="index"/>
     <file name="вал3.jpg" crc="4278911710" ref="index"/>
     <file name="4-u822-fr.jpg" crc="226150179" ref="index"/>
-    <file name="u1475-17.png" crc="3783123767" ref="index"/>
+    <file name="u1475-17.png" crc="4182573585" ref="index"/>
     <file name="u1598-5.png" crc="50397035" ref="index"/>
     <file name="uauwc3o8go8-u1470.jpg" crc="4010820067" ref="index"/>
     <file name="klu4.jpg" crc="487508967" ref="index"/>
@@ -130,6 +130,6 @@
     <file name="u1455-17-m.png" crc="4017657645" ref="index"/>
     <file name="u1455-17-fs.png" crc="4240393657" ref="index"/>
   </folder>
-  <file name="index.html" crc="360956107" mt="1487263978828" redirect="true"/>
+  <file name="index.html" crc="442775794" mt="1487268148095" redirect="true"/>
   <file name="заказ.html" crc="491764899" mt="1486984993629" redirect="true"/>
 </manifest>
