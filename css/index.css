@@ -2678,7 +2678,7 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	top: 1px;
+	top: 2px;
 }
 
 #u1269:hover #u1272-4
@@ -2788,7 +2788,7 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	top: 2px;
+	top: 1px;
 }
 
 #u1273:hover #u1276-4
@@ -3047,8 +3047,8 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
-	left: 24px;
+	margin-top: 30px;
+	left: 25px;
 }
 
 #u490-6
@@ -3062,8 +3062,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 29px;
+	margin-top: 8px;
+	left: 28px;
 }
 
 #u491
@@ -3072,10 +3072,10 @@
 	width: 64px;
 }
 
-#u1533
+#u1605
 {
 	z-index: 283;
-	width: 117px;
+	width: 114px;
 	background-color: transparent;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -3548,7 +3548,7 @@
 	left: 25px;
 }
 
-#u1564_img
+#u1605_img,#u1564_img
 {
 	padding-right: 1px;
 }
