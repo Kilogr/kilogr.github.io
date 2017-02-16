@@ -32,56 +32,59 @@
 {
 	z-index: 2;
 	width: 960px;
+	opacity: 0.89;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=89)";
+	filter: alpha(opacity=89);
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u441-4
-{
-	z-index: 4;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 108px;
-	left: 206px;
-}
-
-#u442
-{
-	z-index: 8;
-	width: 48px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 239px;
-	left: 585px;
 }
 
 #u449
 {
-	z-index: 10;
-	width: 684px;
-	height: 291px;
+	z-index: 4;
+	width: 866px;
 	border-width: 5px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 55px;
-	left: 161px;
+	margin-top: 32px;
+	left: 55px;
+}
+
+#u441-4
+{
+	z-index: 5;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: -3px;
+}
+
+#u442
+{
+	z-index: 9;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 251px;
+	left: 795px;
 }
 
 #u789-4
 {
 	z-index: 11;
-	width: 335px;
+	width: 566px;
 	min-height: 46px;
-	line-height: 43px;
-	font-size: 36px;
 	color: #0000FF;
+	font-size: 36px;
+	line-height: 43px;
 	font-weight: bold;
-	margin-left: 334px;
+	margin-left: 282px;
 	margin-top: 10px;
 	position: relative;
 }
