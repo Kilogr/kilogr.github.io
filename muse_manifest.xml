@@ -10,15 +10,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="_____.css" crc="4036243220" ref="phone>заказ"/>
-      <file name="index.css" crc="408950045" ref="phone>index"/>
+      <file name="index.css" crc="3862143081" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4244448495" mt="1487319663815" redirect="true"/>
+    <file name="index.html" crc="4244448495" mt="1487320356830" redirect="true"/>
     <file name="заказ.html" crc="3896960146" mt="1487316968032" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="133561216" ref="заказ"/>
-    <file name="index.css" crc="3923072410" ref="index"/>
+    <file name="index.css" crc="421743869" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
@@ -33,14 +33,14 @@
     <file name="form_check.php" crc="4257733307" ref="index:phone>index"/>
     <file name="form_throttle.php" crc="3966014863" ref="index:phone>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:phone>index"/>
-    <file name="form-u987.php" crc="219126367" ref="phone>index"/>
+    <file name="form-u987.php" crc="294131565" ref="phone>index"/>
     <file name="museredirect.js" crc="236897542" ref="index:заказ"/>
     <file name="musewpdisclosure.js" crc="4285748861" ref="index"/>
     <file name="form-u1443.php" crc="449595838" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ballon.png" crc="396159271" ref="index:phone>index"/>
+    <file name="ballon.png" crc="4209619476" ref="index:phone>index"/>
     <file name="100 free flat long shadow icons-71.png" crc="370459922" ref="index:phone>index"/>
     <file name="шары2.jpg" crc="185708355" ref="index"/>
     <file name="eqd83duf8ga.jpg" crc="4114119088" ref="index"/>
@@ -136,6 +136,6 @@
     <file name="8марта2-3-u1647.jpg" crc="400822275" ref="phone>index"/>
     <file name="8марта2-334x45.jpg" crc="469118914" ref="index"/>
   </folder>
-  <file name="index.html" crc="319901532" mt="1487317868018" redirect="true"/>
+  <file name="index.html" crc="136656483" mt="1487320356814" redirect="true"/>
   <file name="заказ.html" crc="4065873805" mt="1487316577984" redirect="true"/>
 </manifest>

@@ -20,8 +20,8 @@
 #pu70
 {
 	width: 0.01px;
-	padding-bottom: 55px;
-	left: -99px;
+	padding-bottom: 52px;
+	left: -100px;
 	position: relative;
 }
 
@@ -34,16 +34,16 @@
 	background-color: #7F7F7F;
 	position: fixed;
 	top: -36px;
-	left: -99px;
+	left: -100px;
 }
 
 #u76
 {
 	z-index: 466;
-	width: 48px;
+	width: 42px;
 	position: fixed;
-	top: -34px;
-	left: -85px;
+	top: -31px;
+	left: -79px;
 }
 
 #u82-5
@@ -137,46 +137,28 @@
 	left: 944px;
 }
 
-#ppu815
-{
-	width: 0.01px;
-	left: -99px;
-	top: -15px;
-	margin-bottom: -15px;
-	position: relative;
-}
-
 #pu815
 {
-	z-index: 7;
 	width: 0.01px;
+	left: -100px;
+	top: -12px;
+	margin-bottom: -12px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u815
 {
-	z-index: 0;
+	z-index: 7;
 	width: 1160px;
+	height: 548px;
 	border-color: #000000;
 	opacity: 0.9;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
 	background: #FFFFFF url("../images/m-u815-fr.jpg") no-repeat left top;
 	background-size: cover !important;
-}
-
-#pu97-6
-{
-	width: 0.01px;
-	position: relative;
-	left: 166px;
-	padding-top: 39px;
-	z-index: 2;
-	padding-bottom: 415px;
 }
 
 #u97-6
@@ -186,6 +168,8 @@
 	min-height: 94px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 39px;
+	left: 167px;
 }
 
 #u97-2
@@ -211,7 +195,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
-	left: 688px;
+	left: 689px;
 	padding: 31px 10px 9px 18px;
 }
 
@@ -246,7 +230,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 122px;
-	left: 133px;
+	left: 134px;
 }
 
 #slideshowu609
@@ -257,7 +241,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 440px;
-	left: 76px;
+	left: 77px;
 }
 
 #u649
@@ -845,7 +829,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 288px;
-	left: 832px;
+	left: 833px;
 }
 
 #u98
@@ -3478,7 +3462,7 @@
 	left: 25px;
 }
 
-#u76_img,#u284_img,#u1558_img
+#u284_img,#u1558_img
 {
 	padding-right: 1px;
 	padding-bottom: 1px;
@@ -3676,7 +3660,7 @@
 #u1442
 {
 	z-index: 0;
-	width: 1151px;
+	width: 1155px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
