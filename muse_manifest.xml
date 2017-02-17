@@ -10,15 +10,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="_____.css" crc="4036243220" ref="phone>заказ"/>
-      <file name="index.css" crc="3763647324" ref="phone>index"/>
+      <file name="index.css" crc="4268371391" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="82064898" mt="1487317045970" redirect="true"/>
+    <file name="index.html" crc="3910783517" mt="1487318572655" redirect="true"/>
     <file name="заказ.html" crc="3896960146" mt="1487316968032" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="133561216" ref="заказ"/>
-    <file name="index.css" crc="4145133652" ref="index"/>
+    <file name="index.css" crc="3923072410" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
@@ -43,13 +43,12 @@
     <file name="ballon.png" crc="396159271" ref="index:phone>index"/>
     <file name="100 free flat long shadow icons-71.png" crc="370459922" ref="index:phone>index"/>
     <file name="шары2.jpg" crc="185708355" ref="index"/>
-    <file name="p0dnnfwlrby.jpg" crc="3802868892" ref="phone>index"/>
-    <file name="eqd83duf8ga.jpg" crc="4114119088" ref="index:phone>index"/>
-    <file name="wlqr5u4tf-0.jpg" crc="4282653452" ref="index:phone>index"/>
-    <file name="_ytlqp8udbu.jpg" crc="129559898" ref="index:phone>index"/>
+    <file name="eqd83duf8ga.jpg" crc="4114119088" ref="index"/>
+    <file name="wlqr5u4tf-0.jpg" crc="4282653452" ref="index"/>
+    <file name="_ytlqp8udbu.jpg" crc="129559898" ref="index"/>
     <file name="weather.jpg" crc="4008163527" ref="index:phone>index"/>
     <file name="100 free flat long shadow icons-40.png" crc="3965358248" ref="index:phone>index"/>
-    <file name="air-balloon-favicon.ico" crc="4167303164" ref="phone>index:index"/>
+    <file name="air-balloon-favicon.ico" crc="4167303164" ref="phone>index"/>
     <file name="u105-12.png" crc="226660055" ref="index"/>
     <file name="gew5bjmzuj8-u100.jpg" crc="4232894701" ref="index"/>
     <file name="emote_smile.png" crc="356658783" ref="index:phone>index"/>
@@ -66,7 +65,7 @@
     <file name="zprfx8b0z3q60x45.jpg" crc="3828724408" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="2n8rxhtqvpg.jpg" crc="250420371" ref="index"/>
-    <file name="tsrshp4s7ec.jpg" crc="4184327105" ref="index:phone>index"/>
+    <file name="tsrshp4s7ec.jpg" crc="4184327105" ref="index"/>
     <file name="emote_woohoooo.png" crc="4068939761" ref="index:phone>index"/>
     <file name="emote_nerd.png" crc="4054406870" ref="index:phone>index"/>
     <file name="emote_biggrin.png" crc="400321118" ref="index:phone>index"/>
@@ -92,14 +91,14 @@
     <file name="u563-4.png" crc="4254239076" ref="index"/>
     <file name="вал2.jpg" crc="189905759" ref="index"/>
     <file name="вал7.jpg" crc="268650468" ref="index"/>
-    <file name="8марта2-3.jpg" crc="4289747607" ref="index"/>
+    <file name="8марта2-3.jpg" crc="3847840971" ref="index"/>
     <file name="122-восьмёрка-плетёная-из-воздушных-шариков-на-каркасе-с-подставкой-1500р.jpg" crc="3860383900" ref="index"/>
     <file name="152v5wlhieoa24ah_med.jpg" crc="430249918" ref="index"/>
-    <file name="decoration_with_balloons_for_march_8_3.jpg" crc="3872457753" ref="index"/>
+    <file name="decoration_with_balloons_for_march_8_3.jpg" crc="306067247" ref="index:phone>index"/>
     <file name="foto1_1.jpg" crc="434137520" ref="index"/>
     <file name="full_81da1111af98076ceaec4134ba03f462.jpg" crc="3961972520" ref="index"/>
     <file name="new7.jpg" crc="3974309515" ref="index"/>
-    <file name="decoration_with_balloons_for_march_8_335x45.jpg" crc="93127537" ref="index"/>
+    <file name="decoration_with_balloons_for_march_8_335x45.jpg" crc="3902627893" ref="index"/>
     <file name="foto1_159x45.jpg" crc="328081796" ref="index"/>
     <file name="new760x43.jpg" crc="4223833034" ref="index"/>
     <file name="p0dnnfwlrby-u263.jpg" crc="3904077720" ref="index"/>
@@ -129,7 +128,14 @@
     <file name="7-u904-fr.jpg" crc="365843441" ref="phone>index"/>
     <file name="u1047-17.png" crc="4278817164" ref="phone>index"/>
     <file name="u1626-4.png" crc="460539007" ref="phone>заказ"/>
+    <file name="p0dnnfwlrby313x420.jpg" crc="314047819" ref="phone>index"/>
+    <file name="eqd83duf8ga294x395.jpg" crc="260800923" ref="phone>index"/>
+    <file name="wlqr5u4tf-0303x405.jpg" crc="3760616584" ref="phone>index"/>
+    <file name="_ytlqp8udbu306x411.jpg" crc="4138790086" ref="phone>index"/>
+    <file name="tsrshp4s7ec295x393.jpg" crc="3877819185" ref="phone>index"/>
+    <file name="8марта2-3-u1647.jpg" crc="400822275" ref="phone>index"/>
+    <file name="8марта2-334x45.jpg" crc="469118914" ref="index"/>
   </folder>
-  <file name="index.html" crc="4171640758" mt="1487268677590" redirect="true"/>
+  <file name="index.html" crc="319901532" mt="1487317868018" redirect="true"/>
   <file name="заказ.html" crc="4065873805" mt="1487316577984" redirect="true"/>
 </manifest>
