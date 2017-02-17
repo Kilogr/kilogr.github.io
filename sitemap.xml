@@ -55,12 +55,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Air-balloon.kiev.ua/images/_ytlqp8udbu.jpg</loc>
-    <lastmod>2017-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Air-balloon.kiev.ua/images/weather.jpg</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -571,12 +565,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Air-balloon.kiev.ua/images/_ytlqp8udbu306x411.jpg</loc>
-    <lastmod>2017-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Air-balloon.kiev.ua/images/tsrshp4s7ec295x393.jpg</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -590,6 +578,18 @@
   </url>
   <url>
     <loc>http://Air-balloon.kiev.ua/images/8%D0%BC%D0%B0%D1%80%D1%82%D0%B02-334x45.jpg</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Air-balloon.kiev.ua/images/dbu261x430.jpg</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Air-balloon.kiev.ua/images/dbu-u1663.jpg</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

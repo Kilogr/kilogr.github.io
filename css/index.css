@@ -128,7 +128,7 @@
 #u90-6
 {
 	z-index: 475;
-	width: 105px;
+	width: 108px;
 	color: #FFFFFF;
 	font-weight: bold;
 	font-style: italic;
@@ -1970,7 +1970,7 @@
 {
 	z-index: 95;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1997,7 +1997,7 @@
 {
 	z-index: 98;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2024,7 +2024,7 @@
 {
 	z-index: 101;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2050,7 +2050,7 @@
 {
 	z-index: 104;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2076,7 +2076,7 @@
 {
 	z-index: 107;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2103,7 +2103,7 @@
 {
 	z-index: 110;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2111,10 +2111,10 @@
 	position: relative;
 }
 
-#u284
+#u1663
 {
 	z-index: 111;
-	width: 367px;
+	width: 331px;
 	background-color: transparent;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -2122,14 +2122,15 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 147px;
+	margin-top: 17px;
+	left: 165px;
 }
 
 #u257
 {
 	z-index: 113;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2156,7 +2157,7 @@
 {
 	z-index: 116;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2183,7 +2184,7 @@
 {
 	z-index: 119;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2210,7 +2211,7 @@
 {
 	z-index: 122;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2237,7 +2238,7 @@
 {
 	z-index: 125;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -2264,7 +2265,7 @@
 {
 	z-index: 128;
 	width: 686px;
-	height: 529px;
+	height: 525px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -3462,7 +3463,7 @@
 	left: 25px;
 }
 
-#u284_img,#u1558_img
+#u1558_img
 {
 	padding-right: 1px;
 	padding-bottom: 1px;

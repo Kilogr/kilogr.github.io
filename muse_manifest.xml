@@ -10,15 +10,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="_____.css" crc="4036243220" ref="phone>заказ"/>
-      <file name="index.css" crc="3862143081" ref="phone>index"/>
+      <file name="index.css" crc="290370232" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4244448495" mt="1487320356830" redirect="true"/>
+    <file name="index.html" crc="240313251" mt="1487321103413" redirect="true"/>
     <file name="заказ.html" crc="3896960146" mt="1487316968032" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="133561216" ref="заказ"/>
-    <file name="index.css" crc="421743869" ref="index"/>
+    <file name="index.css" crc="516037754" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
@@ -45,7 +45,6 @@
     <file name="шары2.jpg" crc="185708355" ref="index"/>
     <file name="eqd83duf8ga.jpg" crc="4114119088" ref="index"/>
     <file name="wlqr5u4tf-0.jpg" crc="4282653452" ref="index"/>
-    <file name="_ytlqp8udbu.jpg" crc="129559898" ref="index"/>
     <file name="weather.jpg" crc="4008163527" ref="index:phone>index"/>
     <file name="100 free flat long shadow icons-40.png" crc="3965358248" ref="index:phone>index"/>
     <file name="air-balloon-favicon.ico" crc="4167303164" ref="phone>index"/>
@@ -131,11 +130,12 @@
     <file name="p0dnnfwlrby313x420.jpg" crc="314047819" ref="phone>index"/>
     <file name="eqd83duf8ga294x395.jpg" crc="260800923" ref="phone>index"/>
     <file name="wlqr5u4tf-0303x405.jpg" crc="3760616584" ref="phone>index"/>
-    <file name="_ytlqp8udbu306x411.jpg" crc="4138790086" ref="phone>index"/>
     <file name="tsrshp4s7ec295x393.jpg" crc="3877819185" ref="phone>index"/>
     <file name="8марта2-3-u1647.jpg" crc="400822275" ref="phone>index"/>
     <file name="8марта2-334x45.jpg" crc="469118914" ref="index"/>
+    <file name="dbu261x430.jpg" crc="398775066" ref="phone>index"/>
+    <file name="dbu-u1663.jpg" crc="376637058" ref="index"/>
   </folder>
-  <file name="index.html" crc="136656483" mt="1487320356814" redirect="true"/>
+  <file name="index.html" crc="3814581891" mt="1487321103413" redirect="true"/>
   <file name="заказ.html" crc="4065873805" mt="1487316577984" redirect="true"/>
 </manifest>

@@ -161,7 +161,7 @@
 #u916-6
 {
 	z-index: 18;
-	width: 53px;
+	width: 58px;
 	min-height: 19px;
 	color: #FFFFFF;
 	font-size: 8px;
@@ -171,7 +171,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	left: 317px;
+	left: 318px;
 }
 
 #u917-8
@@ -266,7 +266,7 @@
 #ppamphletu925
 {
 	width: 0.01px;
-	left: -117px;
+	left: -116px;
 	position: relative;
 }
 
@@ -275,10 +275,10 @@
 	z-index: 26;
 	width: 0.01px;
 	height: 590px;
-	padding-bottom: 9px;
+	padding-bottom: 26px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 9px;
 }
 
 #u933
@@ -296,7 +296,7 @@
 {
 	z-index: 28;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -323,7 +323,7 @@
 {
 	z-index: 31;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -350,7 +350,7 @@
 {
 	z-index: 34;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -377,7 +377,7 @@
 {
 	z-index: 37;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -404,7 +404,7 @@
 {
 	z-index: 40;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -431,7 +431,7 @@
 {
 	z-index: 43;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -439,10 +439,10 @@
 	position: relative;
 }
 
-#u1653
+#u1668
 {
 	z-index: 44;
-	width: 306px;
+	width: 261px;
 	background-color: transparent;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -450,15 +450,15 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 49px;
-	left: 155px;
+	margin-top: 41px;
+	left: 176px;
 }
 
 #u949
 {
 	z-index: 46;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -485,7 +485,7 @@
 {
 	z-index: 49;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -512,7 +512,7 @@
 {
 	z-index: 52;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -544,7 +544,7 @@
 {
 	z-index: 55;
 	width: 491px;
-	height: 592px;
+	height: 616px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1462,7 +1462,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	left: 155px;
+	left: 154px;
 }
 
 #u1610
@@ -1472,8 +1472,8 @@
 	height: 605px;
 	border-color: #000000;
 	position: relative;
-	top: -578px;
-	margin-bottom: -578px;
+	top: -597px;
+	margin-bottom: -597px;
 	background: #FFFFFF url("../../images/weather.jpg") repeat left top;
 }
 
