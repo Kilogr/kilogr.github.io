@@ -29,6 +29,7 @@ function emailFormSubmission()
 	$message .= '<tr><td valign="top" style="background-color: #ffffff;"><b>Имя:</b></td><td>' . htmlentities($_REQUEST["custom_U1464"],ENT_COMPAT,'UTF-8') . '</td></tr>';
 	$message .= '<tr><td valign="top" style="background-color: #ffffff;"><b>Электронная почта:</b></td><td>' . htmlentities($_REQUEST["Email"],ENT_COMPAT,'UTF-8') . '</td></tr>';
 	$message .= '<tr><td valign="top" style="background-color: #ffffff;"><b>Сообщение:</b></td><td>' . htmlentities($_REQUEST["custom_U1456"],ENT_COMPAT,'UTF-8') . '</td></tr>';
+	$message .= '<tr><td valign="top" style="background-color: #ffffff;"><b>Сотовый телефон:</b></td><td>' . htmlentities($_REQUEST["custom_U1672"],ENT_COMPAT,'UTF-8') . '</td></tr>';
 
 	$message .= '</table><br/><br/>';
 	$message .= '<div style="background-color: #eeeeee; font-size: 10px; line-height: 11px;">Формы, отправленные с веб-сайта: ' . htmlentities($_SERVER["SERVER_NAME"],ENT_COMPAT,'UTF-8') . '</div>';
