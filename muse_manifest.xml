@@ -10,15 +10,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="_____.css" crc="4036243220" ref="phone>заказ"/>
-      <file name="index.css" crc="3924819034" ref="phone>index"/>
+      <file name="index.css" crc="82464536" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="109265786" mt="1487321471201" redirect="true"/>
+    <file name="index.html" crc="109265786" mt="1487325598596" redirect="true"/>
     <file name="заказ.html" crc="3896960146" mt="1487316968032" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="_____.css" crc="133561216" ref="заказ"/>
-    <file name="index.css" crc="3877529421" ref="index"/>
+    <file name="index.css" crc="535279770" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:заказ:phone>index:phone>заказ:tablet>index:tablet>заказ"/>
@@ -33,10 +33,10 @@
     <file name="form_check.php" crc="4257733307" ref="index:phone>index"/>
     <file name="form_throttle.php" crc="3966014863" ref="index:phone>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:phone>index"/>
-    <file name="form-u987.php" crc="294131565" ref="phone>index"/>
+    <file name="form-u987.php" crc="219126367" ref="phone>index"/>
     <file name="museredirect.js" crc="236897542" ref="index:заказ"/>
     <file name="musewpdisclosure.js" crc="4285748861" ref="index"/>
-    <file name="form-u1443.php" crc="449595838" ref="index"/>
+    <file name="form-u1443.php" crc="3822040733" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
   </folder>
   <folder name="images">
@@ -47,7 +47,7 @@
     <file name="wlqr5u4tf-0.jpg" crc="4282653452" ref="index"/>
     <file name="weather.jpg" crc="4008163527" ref="index:phone>index"/>
     <file name="100 free flat long shadow icons-40.png" crc="3965358248" ref="index:phone>index"/>
-    <file name="air-balloon-favicon.ico" crc="4167303164" ref="phone>index"/>
+    <file name="air-balloon-favicon.ico" crc="4167303164" ref="phone>index:index"/>
     <file name="u105-12.png" crc="226660055" ref="index"/>
     <file name="gew5bjmzuj8-u100.jpg" crc="4232894701" ref="index"/>
     <file name="emote_smile.png" crc="356658783" ref="index:phone>index"/>
@@ -82,9 +82,9 @@
     <file name="u924-12.png" crc="226660055" ref="phone>index"/>
     <file name="u1049-5.png" crc="3795687435" ref="phone>index"/>
     <file name="gew5bjmzuj8-u922.jpg" crc="4132837820" ref="phone>index"/>
-    <file name="u1006-17.png" crc="63009188" ref="phone>index"/>
-    <file name="u1006-17-r.png" crc="4178308008" ref="phone>index"/>
-    <file name="u1006-17-m.png" crc="4017657645" ref="phone>index"/>
+    <file name="u1006-17.png" crc="4232385808" ref="phone>index"/>
+    <file name="u1006-17-r.png" crc="3924019547" ref="phone>index"/>
+    <file name="u1006-17-m.png" crc="4176096404" ref="phone>index"/>
     <file name="u1006-17-fs.png" crc="4240393657" ref="phone>index"/>
     <file name="u82-5.png" crc="3777147353" ref="index"/>
     <file name="u563-4.png" crc="4254239076" ref="index"/>
@@ -116,10 +116,10 @@
     <file name="zub.jpg" crc="3794556971" ref="index"/>
     <file name="ysy.jpg" crc="491432755" ref="index"/>
     <file name="gen2-u1564.jpg" crc="323846227" ref="index"/>
-    <file name="u1455-17.png" crc="63009188" ref="index"/>
-    <file name="u1455-17-r.png" crc="4178308008" ref="index"/>
-    <file name="u1455-17-m.png" crc="4017657645" ref="index"/>
-    <file name="u1455-17-fs.png" crc="4240393657" ref="index"/>
+    <file name="u1455-17.png" crc="44414669" ref="index"/>
+    <file name="u1455-17-r.png" crc="118240220" ref="index"/>
+    <file name="u1455-17-m.png" crc="362542088" ref="index"/>
+    <file name="u1455-17-fs.png" crc="3841043091" ref="index"/>
     <file name="negr-u1605.jpg" crc="178286432" ref="index"/>
     <file name="шары2368x276.jpg" crc="3771629822" ref="phone>index"/>
     <file name="2n8rxhtqvpg346x232.jpg" crc="168980412" ref="phone>index"/>
@@ -136,6 +136,6 @@
     <file name="dbu-u1663.jpg" crc="376637058" ref="index"/>
     <file name="dbu-u1668.jpg" crc="317110569" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="166408513" mt="1487321415040" redirect="true"/>
+  <file name="index.html" crc="166683493" mt="1487325444365" redirect="true"/>
   <file name="заказ.html" crc="4065873805" mt="1487316577984" redirect="true"/>
 </manifest>
