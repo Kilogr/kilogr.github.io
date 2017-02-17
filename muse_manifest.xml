@@ -10,9 +10,9 @@
   <folder name="phone">
     <folder name="css">
       <file name="_____.css" crc="4036243220" ref="phone>заказ"/>
-      <file name="index.css" crc="350442217" ref="phone>index"/>
+      <file name="index.css" crc="408950045" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4244448495" mt="1487319323252" redirect="true"/>
+    <file name="index.html" crc="4244448495" mt="1487319663815" redirect="true"/>
     <file name="заказ.html" crc="3896960146" mt="1487316968032" redirect="true"/>
   </folder>
   <folder name="css">
